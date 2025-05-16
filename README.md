@@ -13,7 +13,7 @@ Sou um profissional de **Redes** com especialização em **Cibersegurança**. Aq
 - 🖥️ Gerência de servidores Linux e seus serviços mais populares.  
 
 ## 📬 Contato
-- 📧 **Email:** gustavo@cyberlab.seg.br
+- 📧 **Email:** gmenezes_sistemas@outlook.com
 
 <!-- 
 - 🌐 **LinkedIn:** [Seu LinkedIn](#) (se aplicável)  
