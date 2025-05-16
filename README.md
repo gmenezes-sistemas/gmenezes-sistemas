@@ -4,7 +4,7 @@ Sou um profissional de **Redes** com especialização em **Cibersegurança**. Aq
 
 ## 🛠️ Competências Técnicas
 - **Linguagens:** 🐍 Python, ⚡ JavaScript, 🟦 TypeScript, 🎯 Dart, ☕ Java  
-- **Frameworks e Bibliotecas:** ⚛️ React, 🖼️ Flutter, 🌐 Django, Flask  
+- **Frameworks e Bibliotecas:** ⚛️ React, 🖼️ Flutter, 🌐 Django, 🧪 Flask  
 - **Ferramentas e Tecnologias:** 🐳 Docker, ☸️ Kubernetes, 🖇️ Git  
 - **Outros Conhecimentos:** 🌐 Redes e infraestrutura de TI, com foco em cibersegurança, configuração e gerenciamento de equipamentos e servidores.  
 
