@@ -1,16 +1,26 @@
-## Hi there 👋
+## 👨‍💻 Bem-vindo ao meu perfil no GitHub
 
-<!--
-**gmenezes-sistemas/gmenezes-sistemas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um profissional de **Redes** com especialização em **Cibersegurança**. Aqui você encontrará projetos que refletem minha experiência em desenvolver soluções tecnológicas eficientes e escaláveis. 🚀
 
-Here are some ideas to get you started:
+## 🛠️ Competências Técnicas
+- **Linguagens:** 🐍 Python, ⚡ JavaScript, 🟦 TypeScript, 🎯 Dart, ☕ Java  
+- **Frameworks e Bibliotecas:** ⚛️ React / React Native, 🖼️ Flutter, 🌐 Django, 🧪 Flask  
+- **Ferramentas e Tecnologias:** 🐳 Docker, 🐰 Podman, ☸️ Kubernetes, 🖇️ Git, 
+- **Outros Conhecimentos Técnicos:**  
+  🌐 Redes e infraestrutura de TI, com foco em:  
+  &nbsp;&nbsp;&nbsp;&nbsp;🔐 Cibersegurança  
+  &nbsp;&nbsp;&nbsp;&nbsp;🛠️ Configuração e gerenciamento de servidores 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🎯 Objetivos e Áreas de Interesse
+- 🚀 Expansão de habilidades em **cibersegurança avançada**, **automação de redes** e **gerenciamento de infraestrutura** utilizando tecnologias de ponta.  
+- 🖥️ Gerência de servidores Linux e seus serviços mais populares.  
+
+## 📬 Contato
+- 📧 **Email:** 205842066+gmenezes-sistemas@users.noreply.github.com
+
+<!-- 
+- 🌐 **LinkedIn:** [Seu LinkedIn](#) (se aplicável)  
+- 🖥️ **Portfólio:** [Seu Portfólio](#) (se aplicável)
 -->
+
+💡 *Para mais detalhes sobre meu trabalho, explore meus repositórios ou entre em contato diretamente.*
